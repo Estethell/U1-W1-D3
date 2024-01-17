@@ -14,7 +14,6 @@ body {
 main {
   width: 50%;
   margin: auto;
-
   padding: 10px;
 }
 
@@ -24,7 +23,6 @@ h1 {
 
 .p1 {
   padding-inline: 8em;
-  text-align: start;
 }
 
 .p2 {
@@ -59,7 +57,6 @@ video {
 
 h2 {
   margin-left: 5em;
-  text-align: start;
 }
 
 hr {
@@ -67,19 +64,14 @@ hr {
   width: 80%;
 }
 
-h4 {
-  text-align: start;
-}
-
-li {
-  text-align: start;
-}
-
 .divlist {
   margin-left: 6em;
 }
 
 .finalp {
-  text-align: start;
   margin-left: 6em;
+}
+
+.textstar {
+  text-align: start;
 }
